@@ -1,0 +1,29 @@
+{
+  "siteUrl": "https://kami-shiatsu.pages.dev",
+  "businessName": "Kami Shiatsu",
+  "practitioner": "Camille Farion",
+  "phone": "06 13 41 63 20",
+  "phoneInternational": "+33 6 13 41 63 20",
+  "email": "camille.farion@gmail.com",
+  "web3formsKey": "2147f4e0-10a4-4dc8-9851-0902e217a424",
+  "city": "Pézenas",
+  "postalCode": "34120",
+  "region": "Occitanie",
+  "areaServed": ["Pézenas", "Tourbes"],
+  "prices": [
+    {
+      "label_fr": "Première séance (1 h 15)",
+      "label_en": "First session (1 h 15)",
+      "label_es": "Primera sesión (1 h 15)",
+      "price": "60 €"
+    },
+    {
+      "label_fr": "Séances suivantes (1 h)",
+      "label_en": "Following sessions (1 h)",
+      "label_es": "Sesiones siguientes (1 h)",
+      "price": "60 €"
+    }
+  ],
+  "siret": "à compléter",
+  "legalAddress": "à compléter"
+}

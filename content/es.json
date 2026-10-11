@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "shiatsu": "El shiatsu",
+    "about": "Sobre mí",
+    "prices": "Tarifas",
+    "contact": "Contacto"
+  },
+  "common": {
+    "call": "Llamar",
+    "sms": "Enviar un SMS",
+    "writeMe": "Escribir un mensaje",
+    "freeBooking": "Reserva por SMS o llamada, sin coste.",
+    "footerTagline": "Bienestar · Equilibrio · Vitalidad",
+    "footerArea": "Shiatsu Masunaga en Pézenas, Tourbes y alrededores (Hérault, sur de Francia).",
+    "legalLink": "Aviso legal",
+    "skipLink": "Ir al contenido",
+    "languageLabel": "Idioma",
+    "logoAlt": "Kami Shiatsu – Bienestar, equilibrio, vitalidad"
+  },
+  "home": {
+    "seoTitle": "Shiatsu en Pézenas y Tourbes | Kami Shiatsu – Camille Farion",
+    "seoDescription": "Shiatsu Masunaga en Pézenas y Tourbes (Hérault, Francia) con Camille Farion, terapeuta titulada. Alivia el estrés, el cansancio y las tensiones. Reserva por SMS o llamada.",
+    "title": "Kami Shiatsu: practicante de Shiatsu Masunaga en Pézenas y Tourbes",
+    "tagline": "Escuchar el cuerpo. Bajar el ritmo. Reencontrarse.",
+    "intro": "Soy Camille Farion, practicante formada en Francia y en Italia, y titulada en Italia en el Centro Shiatsu Daniele Giorcelli (Biella). Te propongo un acompañamiento cercano y a medida, adaptado a tu ritmo.",
+    "ctaQuestion": "¿Necesitas una pausa?",
+    "ctaButton": "Reservar por SMS / llamada (gratis)",
+    "heroImageAlt": "Ilustración a pincel de una sesión de shiatsu, con los caracteres japoneses 指圧 (shiatsu)",
+    "benefitsTitle": "Aliviar el estrés, el cansancio y las tensiones musculares con el shiatsu",
+    "benefitsIntro": "En un día a día a menudo cargado, tu cuerpo acumula agotamiento, bloqueos o falta de sueño. Una sesión de shiatsu es un verdadero momento para respirar y te acompaña para aliviar las molestias cotidianas:",
+    "benefits": [
+      "La gestión del estrés y la ansiedad del día a día;",
+      "El cansancio persistente, favoreciendo la recuperación y un descanso profundo;",
+      "La liberación de tensiones físicas y la reducción de la rigidez muscular;",
+      "La reconexión con las sensaciones del cuerpo y la búsqueda de un mejor equilibrio general."
+    ],
+    "benefitsOutro": "Cada cita se adapta con precisión a tu estado del momento, a tu historia y a tus necesidades específicas.",
+    "methodTitle": "El Shiatsu Masunaga: un método global de escucha del cuerpo",
+    "methodText": "El Shiatsu Masunaga (o Iokai Shiatsu) es un enfoque japonés tradicional desarrollado por Shizuto Masunaga. A diferencia de los masajes clásicos, que se centran solo en la zona dolorida, este método considera el cuerpo en su globalidad.\n\nMediante presiones suaves y precisas con los pulgares, las manos y a veces los antebrazos a lo largo de los meridianos, junto con estiramientos y movilizaciones, el shiatsu restablece la libre circulación de tu energía.",
+    "methodLink": "Saber más sobre el shiatsu",
+    "clothedTitle": "Una práctica suave que se recibe vestido",
+    "clothedText": "El shiatsu es accesible para todos. Para tu comodidad, la sesión se recibe vestido con ropa holgada y tiene lugar en el suelo, sobre un futón tradicional.",
+    "disclaimer": "**Nota importante:** el shiatsu es una práctica de bienestar. No sustituye un seguimiento médico, un diagnóstico ni un tratamiento prescrito por un profesional de la salud.",
+    "sessionTitle": "¿Cómo es una sesión en Kami Shiatsu?",
+    "sessionIntro": "En Kami Shiatsu, el acompañamiento se basa ante todo en la escucha y la amabilidad.",
+    "steps": [
+      {
+        "title": "Un tiempo de conversación previo",
+        "text": "Cada cita empieza con una conversación para valorar tu forma física, tus emociones y lo que esperas ese día. En la primera sesión, de 1 h 15, esta conversación es más profunda para conocernos."
+      },
+      {
+        "title": "La práctica sobre el futón",
+        "text": "Te acomodas tranquilamente para recibir el trabajo corporal en un ambiente sereno, cálido y seguro."
+      }
+    ],
+    "pricesTitle": "Tarifas en Pézenas y Tourbes",
+    "contactTitle": "Pedir cita con Camille Farion",
+    "contactText": "¿Quieres regalarte una verdadera pausa, liberar tus tensiones físicas o simplemente bajar el ritmo? Te recibo con cita previa en la zona de Pézenas y Tourbes.\n\nPara reservar tu cita sin ningún gasto de intermediarios, puedes contactarme directamente:",
+    "phoneLabel": "Teléfono / SMS",
+    "emailLabel": "Correo electrónico",
+    "contactOutro": "No dudes en enviarme un mensaje indicando tu disponibilidad o tus preguntas. Será un placer conocerte."
+  },
+  "form": {
+    "title": "O escríbeme directamente aquí",
+    "name": "Tu nombre",
+    "email": "Tu correo electrónico",
+    "phone": "Tu teléfono (opcional)",
+    "message": "Tu mensaje (disponibilidad, preguntas…)",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando…",
+    "success": "¡Gracias, tu mensaje se ha enviado! Te responderé lo antes posible.",
+    "error": "Lo siento, no se ha podido enviar el mensaje. Puedes llamarme o enviarme un SMS al {phone}.",
+    "privacy": "Tus datos solo se utilizan para responderte y nunca se comparten con terceros.",
+    "emailSubject": "Nuevo mensaje desde la web Kami Shiatsu (español)"
+  },
+  "shiatsu": {
+    "seoTitle": "Shiatsu Masunaga: principios y sesión | Kami Shiatsu",
+    "seoDescription": "Descubre el shiatsu Masunaga con Kami Shiatsu en Pézenas: un enfoque japonés global basado en presiones, meridianos, movilizaciones y escucha del cuerpo.",
+    "title": "El Shiatsu Masunaga: un enfoque global de salud y bienestar",
+    "intro": "El Shiatsu Masunaga (o Iokai Shiatsu) es una disciplina corporal terapéutica y holística desarrollada en Japón por Shizuto Masunaga. A diferencia de otros métodos que se centran solo en la zona dolorida o tensa, este enfoque considera el cuerpo como un conjunto indisociable. Busca restablecer la comunicación y un equilibrio armonioso entre todas las partes del cuerpo.",
+    "ctaButton": "Pedir cita en Pézenas o Tourbes (SMS / llamada gratis)",
+    "meridiansTitle": "Aliviar las molestias cotidianas trabajando los meridianos",
+    "meridiansText": "El principio fundamental del shiatsu Masunaga es el trabajo a lo largo de los meridianos de energía. Con presiones precisas y adaptadas de mis pulgares, mis manos y a veces mis antebrazos, junto con estiramientos suaves, te acompaño para deshacer los bloqueos físicos y emocionales.\n\nEsta escucha global del cuerpo está especialmente recomendada para ayudarte a superar las dificultades y desequilibrios del día a día:",
+    "benefits": [
+      "La gestión del estrés y la ansiedad acumulados en el día a día;",
+      "El cansancio físico y mental, estimulando la recuperación y el descanso profundo;",
+      "La liberación de tensiones musculares y rigidez corporal;",
+      "La búsqueda de un mejor equilibrio general y una mayor vitalidad;",
+      "Una mayor escucha de uno mismo y una toma de conciencia de las propias sensaciones corporales."
+    ],
+    "disclaimer": "**Código deontológico:** el shiatsu es un acompañamiento de bienestar. En ningún caso sustituye un seguimiento médico regular ni un tratamiento prescrito por tu médico.",
+    "sessionTitle": "¿Cómo se desarrolla concretamente tu sesión de shiatsu?",
+    "sessionIntro": "Recibir un shiatsu es ante todo un momento para respirar y cuidarse. La práctica se adapta por completo a tu ritmo y respeta la sensibilidad de cada persona.",
+    "clothedTitle": "Una sesión cómoda, suave y vestido",
+    "clothedText": "Para que puedas relajarte plenamente, el shiatsu se recibe vestido. Basta con llevar ropa suave, amplia y cómoda que facilite los estiramientos y movimientos. Para respetar la tradición japonesa y lograr una relajación óptima, la sesión tiene lugar en el suelo, cómodamente instalado sobre un futón tradicional.",
+    "personalTitle": "Un acompañamiento personalizado en cada cita",
+    "personalText": "Como cada persona llega con su propia historia, su estado emocional y sus necesidades del momento, ninguna sesión es igual a otra. Siempre nos tomamos el tiempo necesario para hablar al inicio de la sesión y adaptar con precisión el trabajo corporal.",
+    "imageAlt": "Ilustración de bambúes y piedras apiladas que evocan un jardín japonés",
+    "ctaQuestion": "¿Te apetece regalarte una verdadera pausa?",
+    "ctaButton2": "Escríbeme un SMS al {phone}"
+  },
+  "about": {
+    "seoTitle": "Camille Farion, practicante de Shiatsu Masunaga | Pézenas",
+    "seoDescription": "Conoce a Camille Farion, practicante de shiatsu Masunaga en Pézenas y Tourbes, titulada en Italia en el Centro Shiatsu Daniele Giorcelli de Biella.",
+    "title": "Sobre Camille Farion, tu practicante de shiatsu",
+    "intro": "Me llamo Camille Farion. Mi camino personal me llevó a apasionarme por el cuerpo humano, su equilibrio y su capacidad de regenerarse gracias a métodos suaves y respetuosos. Hoy te acompaño en la zona de Pézenas y Tourbes para ayudarte a recuperar la armonía y reconectar contigo mismo.",
+    "imageAlt": "Ilustración de un árbol inclinado sobre unas rocas, al estilo de un jardín japonés",
+    "trainingTitle": "Mi formación especializada en Shiatsu Masunaga en Italia",
+    "trainingText": "La escucha atenta de tu cuerpo, la amabilidad y el respeto de tu ritmo guían cada momento de mi práctica. Tras estudiar shiatsu en Francia y en Italia, decidí completar mi formación y obtener mi título de practicante de shiatsu Masunaga en una escuela reconocida por su excelencia: el Centro Shiatsu Daniele Giorcelli de Biella, en Italia.\n\nEste rico recorrido de aprendizaje entre dos países y mi certificación italiana me permitieron dominar las sutilezas de la escucha de los meridianos y de las presiones suaves. Hoy son la base de mi práctica diaria y me permiten ofrecerte un tacto preciso, seguro y profundamente adaptado a tus necesidades.",
+    "philosophyTitle": "Mi filosofía: un espacio de confianza y amabilidad",
+    "philosophyText": "Para mí, el shiatsu empieza mucho antes del contacto físico: empieza con una escucha atenta y sincera de tus palabras. Mi objetivo es ofrecerte un espacio de acogida sencillo, cálido y totalmente libre de juicios.",
+    "values": [
+      "Frenar el ritmo frenético del día a día;",
+      "Sentir tu cuerpo en su globalidad;",
+      "Volver a ti mismo con total sencillez."
+    ],
+    "outro": "Tanto si buscas aliviar tensiones acumuladas como si simplemente quieres regalarte un momento de desconexión, estaré encantada de recibirte en Kami Shiatsu.",
+    "ctaQuestion": "¿Necesitas hablar de tu situación?",
+    "ctaButton": "Llamar a Camille Farion ({phone})"
+  },
+  "legal": {
+    "seoTitle": "Aviso legal | Kami Shiatsu",
+    "seoDescription": "Aviso legal y política de privacidad de la web Kami Shiatsu, shiatsu Masunaga en Pézenas y Tourbes.",
+    "title": "Aviso legal",
+    "text": "**Responsable del sitio:** Camille Farion – Kami Shiatsu\nDirección: {address}\nSIRET: {siret}\nTeléfono: {phone} – Correo: {email}\n\n**Alojamiento:** Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, Estados Unidos.\n\n**Datos personales:** la información enviada mediante el formulario de contacto (nombre, correo, teléfono, mensaje) se transmite a través del servicio Web3Forms y solo se utiliza para responder a tu solicitud. Nunca se vende ni se usa con fines comerciales. Puedes pedir su eliminación en cualquier momento escribiendo a {email}.\n\n**Cookies:** esta web no utiliza cookies de seguimiento ni herramientas de medición de audiencia.\n\n**Bienestar:** el shiatsu es una práctica de bienestar. No sustituye un seguimiento médico, un diagnóstico ni un tratamiento prescrito por un profesional de la salud."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "Esta página no existe o se ha movido. Respira hondo… y vuelve al inicio.",
+    "back": "Volver al inicio"
+  }
+}

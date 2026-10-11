@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "shiatsu": "Shiatsu",
+    "about": "About",
+    "prices": "Prices",
+    "contact": "Contact"
+  },
+  "common": {
+    "call": "Call",
+    "sms": "Send a text",
+    "writeMe": "Write a message",
+    "freeBooking": "Book by text or phone call, free of charge.",
+    "footerTagline": "Well-being · Balance · Vitality",
+    "footerArea": "Masunaga Shiatsu in Pézenas, Tourbes and surrounding area (Hérault, South of France).",
+    "legalLink": "Legal notice",
+    "skipLink": "Skip to content",
+    "languageLabel": "Language",
+    "logoAlt": "Kami Shiatsu – Well-being, balance, vitality"
+  },
+  "home": {
+    "seoTitle": "Shiatsu in Pézenas & Tourbes | Kami Shiatsu – Camille Farion",
+    "seoDescription": "Masunaga Shiatsu in Pézenas and Tourbes (Hérault, France) with Camille Farion, a qualified practitioner. Ease stress, fatigue and tension. Book by text or call.",
+    "title": "Kami Shiatsu: Masunaga Shiatsu practitioner in Pézenas and Tourbes",
+    "tagline": "Listen to your body. Slow down. Find yourself again.",
+    "intro": "I am Camille Farion, a practitioner trained in France and Italy, and qualified in Italy at the Centro Shiatsu Daniele Giorcelli (Biella). I offer local, tailor-made support that follows your own pace.",
+    "ctaQuestion": "Need a break?",
+    "ctaButton": "Book by text / phone call (free)",
+    "heroImageAlt": "Brush illustration of a shiatsu session, with the Japanese characters 指圧 (shiatsu)",
+    "benefitsTitle": "Relieve stress, fatigue and muscle tension with shiatsu",
+    "benefitsIntro": "In a busy daily life, your body builds up overwork, blockages and lack of sleep. A shiatsu session is a true moment to breathe, helping you ease everyday discomforts:",
+    "benefits": [
+      "Managing everyday stress and anxiety;",
+      "Persistent fatigue, by encouraging recovery and deep rest;",
+      "Releasing physical tension and reducing muscle stiffness;",
+      "Reconnecting with your body's sensations and finding better overall balance."
+    ],
+    "benefitsOutro": "Each appointment is adapted precisely to how you feel that day, to your history and to your specific needs.",
+    "methodTitle": "Masunaga Shiatsu: a holistic method of listening to the body",
+    "methodText": "Masunaga Shiatsu (or Iokai Shiatsu) is a traditional Japanese approach developed by Shizuto Masunaga. Unlike classic massages that only target the painful area, this method considers the body as a whole.\n\nThrough gentle, precise pressure with the thumbs, hands and sometimes forearms along the meridians, together with stretches and mobilisations, shiatsu restores the free flow of your energy.",
+    "methodLink": "Learn more about shiatsu",
+    "clothedTitle": "A gentle practice you receive fully clothed",
+    "clothedText": "Shiatsu is accessible to everyone. For your comfort, you stay dressed in loose, comfortable clothing and the session takes place on the floor, on a traditional futon.",
+    "disclaimer": "**Important:** shiatsu is a well-being practice. It does not replace medical follow-up, diagnosis or treatment prescribed by a healthcare professional.",
+    "sessionTitle": "What happens during a session at Kami Shiatsu?",
+    "sessionIntro": "At Kami Shiatsu, everything is based on listening and kindness.",
+    "steps": [
+      {
+        "title": "A time to talk first",
+        "text": "Each appointment begins with a conversation about your physical condition, your emotions and what you hope for that day. During the first session, which lasts 1 h 15, this talk is more in-depth so that we can get to know each other."
+      },
+      {
+        "title": "The practice on the futon",
+        "text": "You settle in comfortably to receive the bodywork in a calm, warm and reassuring atmosphere."
+      }
+    ],
+    "pricesTitle": "Prices in Pézenas and Tourbes",
+    "contactTitle": "Book an appointment with Camille Farion",
+    "contactText": "Would you like to give yourself a real break, release physical tension or simply slow down? I see clients by appointment in the Pézenas and Tourbes area.\n\nTo book your slot with no intermediary fees, you can contact me directly:",
+    "phoneLabel": "Phone / text",
+    "emailLabel": "Email",
+    "contactOutro": "Feel free to send me a message with your availability or any questions. I look forward to meeting you."
+  },
+  "form": {
+    "title": "Or write to me directly here",
+    "name": "Your name",
+    "email": "Your email",
+    "phone": "Your phone (optional)",
+    "message": "Your message (availability, questions…)",
+    "submit": "Send message",
+    "sending": "Sending…",
+    "success": "Thank you, your message has been sent! I will get back to you as soon as possible.",
+    "error": "Sorry, the message could not be sent. You can call or text me on {phone}.",
+    "privacy": "Your details are used only to reply to you and are never shared with third parties.",
+    "emailSubject": "New message from the Kami Shiatsu website (English)"
+  },
+  "shiatsu": {
+    "seoTitle": "Masunaga Shiatsu: principles and sessions | Kami Shiatsu",
+    "seoDescription": "Discover Masunaga Shiatsu with Kami Shiatsu in Pézenas: a holistic Japanese approach based on pressure, meridians, mobilisation and listening to the body.",
+    "title": "Masunaga Shiatsu: a holistic approach to health and well-being",
+    "intro": "Masunaga Shiatsu (or Iokai Shiatsu) is a therapeutic and holistic bodywork discipline developed in Japan by Shizuto Masunaga. Unlike methods that focus only on the painful or tense area, this approach sees the body as one inseparable whole. It seeks to restore communication and harmonious balance between all parts of the body.",
+    "ctaButton": "Book in Pézenas or Tourbes (text / call, free)",
+    "meridiansTitle": "Easing everyday discomfort by working the meridians",
+    "meridiansText": "The core principle of Masunaga Shiatsu is working along the energy meridians. Using precise, adapted pressure with my thumbs, hands and sometimes forearms, combined with gentle stretches, I help you release physical and emotional blockages.\n\nThis holistic listening to the body is particularly recommended to help you through the challenges and imbalances of daily life:",
+    "benefits": [
+      "Managing stress and anxiety built up day after day;",
+      "Physical and mental fatigue, by supporting recovery and deep rest;",
+      "Releasing muscle tension and bodily stiffness;",
+      "Seeking better overall balance and greater vitality;",
+      "Listening more closely to yourself and becoming aware of your own body sensations."
+    ],
+    "disclaimer": "**Code of ethics:** shiatsu is a form of well-being support. It never replaces regular medical follow-up or treatment prescribed by your doctor.",
+    "sessionTitle": "What actually happens during your shiatsu session?",
+    "sessionIntro": "Receiving shiatsu is above all a moment to breathe and take care of yourself. The practice is entirely adapted to your pace and respects each person's sensitivity.",
+    "clothedTitle": "A comfortable, gentle session, fully clothed",
+    "clothedText": "So that you can fully relax, shiatsu is received clothed. Simply wear soft, loose, comfortable clothes that make stretches and movements easy. In keeping with Japanese tradition and for optimal relaxation, the session takes place on the floor, comfortably settled on a traditional futon.",
+    "personalTitle": "Personalised support at every appointment",
+    "personalText": "Because everyone arrives with their own story, emotional state and needs of the moment, no two sessions are alike. We always take the time to talk at the start of the session so the bodywork can be adapted precisely.",
+    "imageAlt": "Illustration of bamboo and stacked stones, evoking a Japanese garden",
+    "ctaQuestion": "Ready to give yourself a real break?",
+    "ctaButton2": "Text me on {phone}"
+  },
+  "about": {
+    "seoTitle": "Camille Farion, Masunaga Shiatsu practitioner | Pézenas",
+    "seoDescription": "Meet Camille Farion, Masunaga Shiatsu practitioner in Pézenas and Tourbes, qualified in Italy at the Centro Shiatsu Daniele Giorcelli in Biella.",
+    "title": "About Camille Farion, your shiatsu practitioner",
+    "intro": "My name is Camille Farion. My personal journey led me to a passion for the human body, its balance and its ability to regenerate through gentle, respectful methods. Today I work in the Pézenas and Tourbes area, helping you find harmony again and reconnect with yourself.",
+    "imageAlt": "Illustration of a tree leaning over rocks, in the spirit of a Japanese garden",
+    "trainingTitle": "My specialist Masunaga Shiatsu training in Italy",
+    "trainingText": "Attentive listening to your body, kindness and respect for your pace guide every moment of my practice. After studying shiatsu in France and Italy, I chose to complete my training and qualify as a Masunaga Shiatsu practitioner at a school renowned for its excellence: the Centro Shiatsu Daniele Giorcelli in Biella, Italy.\n\nThis rich cross-border learning path and my Italian certification taught me the subtleties of listening to the meridians and of gentle pressure. Today they form the foundation of my daily practice and allow me to offer you a touch that is precise, reassuring and deeply adapted to your needs.",
+    "philosophyTitle": "My philosophy: a space of trust and kindness",
+    "philosophyText": "For me, shiatsu begins long before physical contact: it starts with attentive, sincere listening to what you have to say. My aim is to offer you a simple, warm welcome, entirely free of judgement.",
+    "values": [
+      "Slow down the hectic pace of everyday life;",
+      "Feel your body as a whole;",
+      "Come back to yourself, simply."
+    ],
+    "outro": "Whether you want to ease built-up tension or simply give yourself time to disconnect, I will be delighted to welcome you at Kami Shiatsu.",
+    "ctaQuestion": "Would you like to talk about your situation?",
+    "ctaButton": "Call Camille Farion ({phone})"
+  },
+  "legal": {
+    "seoTitle": "Legal notice | Kami Shiatsu",
+    "seoDescription": "Legal notice and privacy policy of the Kami Shiatsu website, Masunaga Shiatsu in Pézenas and Tourbes.",
+    "title": "Legal notice",
+    "text": "**Publisher:** Camille Farion – Kami Shiatsu\nAddress: {address}\nSIRET: {siret}\nPhone: {phone} – Email: {email}\n\n**Hosting:** Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA.\n\n**Personal data:** information sent via the contact form (name, email, phone, message) is transmitted by the Web3Forms service and used only to reply to your request. It is never sold or used for marketing. You can ask for it to be deleted at any time by writing to {email}.\n\n**Cookies:** this website uses no tracking cookies or analytics tools.\n\n**Well-being:** shiatsu is a well-being practice. It does not replace medical follow-up, diagnosis or treatment prescribed by a healthcare professional."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "This page does not exist or has moved. Take a deep breath… and head back home.",
+    "back": "Back to home page"
+  }
+}

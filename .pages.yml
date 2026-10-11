@@ -1,0 +1,182 @@
+# Configuration de l'éditeur Pages CMS (https://app.pagescms.org)
+# Permet de modifier les textes du site sans toucher au code.
+
+content:
+  - name: settings
+    label: "⚙️ Coordonnées & tarifs"
+    type: file
+    path: content/settings.json
+    format: json
+    fields:
+      - { name: phone, label: "Téléphone (format français)", type: string, description: "Ex. : 06 13 41 63 20" }
+      - { name: phoneInternational, label: "Téléphone (format international)", type: string, description: "Ex. : +33 6 13 41 63 20 — utilisé pour les boutons Appeler / SMS et les versions anglaise et espagnole" }
+      - { name: email, label: "E-mail", type: string }
+      - name: prices
+        label: "Tarifs"
+        type: object
+        list: true
+        fields:
+          - { name: label_fr, label: "Intitulé (français)", type: string }
+          - { name: label_en, label: "Intitulé (anglais)", type: string }
+          - { name: label_es, label: "Intitulé (espagnol)", type: string }
+          - { name: price, label: "Prix", type: string, description: "Ex. : 60 €" }
+      - { name: areaServed, label: "Communes desservies (pour Google)", type: string, list: true }
+      - { name: siret, label: "N° SIRET (mentions légales)", type: string }
+      - { name: legalAddress, label: "Adresse professionnelle (mentions légales)", type: string }
+      - { name: web3formsKey, label: "Clé Web3Forms (formulaire de contact)", type: string, description: "Ne pas modifier sauf changement de compte Web3Forms" }
+      - { name: siteUrl, label: "Adresse du site", type: string, description: "Ne pas modifier sauf changement de nom de domaine (sans / à la fin)" }
+      - { name: businessName, label: "Nom de l'activité", type: string }
+      - { name: practitioner, label: "Nom de la praticienne", type: string }
+      - { name: city, label: "Ville (pour Google)", type: string }
+      - { name: postalCode, label: "Code postal", type: string }
+      - { name: region, label: "Région", type: string }
+
+  - name: fr
+    label: "🇫🇷 Textes en français"
+    type: file
+    path: content/fr.json
+    format: json
+    fields: &langFields
+      - name: home
+        label: "Page d'accueil"
+        type: object
+        fields:
+          - { name: seoTitle, label: "Titre pour Google (≈ 60 caractères)", type: string }
+          - { name: seoDescription, label: "Description pour Google (≈ 155 caractères)", type: text }
+          - { name: title, label: "Grand titre", type: string }
+          - { name: tagline, label: "Phrase d'accroche", type: string }
+          - { name: intro, label: "Présentation", type: text }
+          - { name: ctaQuestion, label: "Question avant le bouton", type: string }
+          - { name: ctaButton, label: "Texte du bouton principal", type: string }
+          - { name: heroImageAlt, label: "Description de l'image (accessibilité)", type: string }
+          - { name: benefitsTitle, label: "Bienfaits – titre", type: string }
+          - { name: benefitsIntro, label: "Bienfaits – introduction", type: text }
+          - { name: benefits, label: "Bienfaits – liste", type: string, list: true }
+          - { name: benefitsOutro, label: "Bienfaits – conclusion", type: text }
+          - { name: methodTitle, label: "Méthode – titre", type: string }
+          - { name: methodText, label: "Méthode – texte", type: text }
+          - { name: methodLink, label: "Méthode – lien « en savoir plus »", type: string }
+          - { name: clothedTitle, label: "Pratique habillée – titre", type: string }
+          - { name: clothedText, label: "Pratique habillée – texte", type: text }
+          - { name: disclaimer, label: "Note importante (bien-être)", type: text }
+          - { name: sessionTitle, label: "Déroulement – titre", type: string }
+          - { name: sessionIntro, label: "Déroulement – introduction", type: text }
+          - name: steps
+            label: "Déroulement – étapes"
+            type: object
+            list: true
+            fields:
+              - { name: title, label: "Titre de l'étape", type: string }
+              - { name: text, label: "Texte de l'étape", type: text }
+          - { name: pricesTitle, label: "Tarifs – titre", type: string }
+          - { name: contactTitle, label: "Contact – titre", type: string }
+          - { name: contactText, label: "Contact – texte", type: text }
+          - { name: phoneLabel, label: "Contact – libellé téléphone", type: string }
+          - { name: emailLabel, label: "Contact – libellé e-mail", type: string }
+          - { name: contactOutro, label: "Contact – conclusion", type: text }
+      - name: shiatsu
+        label: "Page « Le shiatsu »"
+        type: object
+        fields:
+          - { name: seoTitle, label: "Titre pour Google (≈ 60 caractères)", type: string }
+          - { name: seoDescription, label: "Description pour Google (≈ 155 caractères)", type: text }
+          - { name: title, label: "Grand titre", type: string }
+          - { name: intro, label: "Introduction", type: text }
+          - { name: ctaButton, label: "Texte du bouton", type: string }
+          - { name: meridiansTitle, label: "Méridiens – titre", type: string }
+          - { name: meridiansText, label: "Méridiens – texte", type: text }
+          - { name: benefits, label: "Bienfaits – liste", type: string, list: true }
+          - { name: disclaimer, label: "Rappel de déontologie", type: text }
+          - { name: sessionTitle, label: "Séance – titre", type: string }
+          - { name: sessionIntro, label: "Séance – introduction", type: text }
+          - { name: clothedTitle, label: "Séance habillée – titre", type: string }
+          - { name: clothedText, label: "Séance habillée – texte", type: text }
+          - { name: personalTitle, label: "Accompagnement – titre", type: string }
+          - { name: personalText, label: "Accompagnement – texte", type: text }
+          - { name: imageAlt, label: "Description de l'image (accessibilité)", type: string }
+          - { name: ctaQuestion, label: "Bandeau final – question", type: string }
+          - { name: ctaButton2, label: "Bandeau final – bouton", type: string }
+      - name: about
+        label: "Page « À propos »"
+        type: object
+        fields:
+          - { name: seoTitle, label: "Titre pour Google (≈ 60 caractères)", type: string }
+          - { name: seoDescription, label: "Description pour Google (≈ 155 caractères)", type: text }
+          - { name: title, label: "Grand titre", type: string }
+          - { name: intro, label: "Introduction", type: text }
+          - { name: imageAlt, label: "Description de l'image (accessibilité)", type: string }
+          - { name: trainingTitle, label: "Formation – titre", type: string }
+          - { name: trainingText, label: "Formation – texte", type: text }
+          - { name: philosophyTitle, label: "Philosophie – titre", type: string }
+          - { name: philosophyText, label: "Philosophie – texte", type: text }
+          - { name: values, label: "Philosophie – les 3 cercles", type: string, list: true }
+          - { name: outro, label: "Conclusion", type: text }
+          - { name: ctaQuestion, label: "Bandeau final – question", type: string }
+          - { name: ctaButton, label: "Bandeau final – bouton", type: string }
+      - name: form
+        label: "Formulaire de contact"
+        type: object
+        fields:
+          - { name: title, label: "Titre", type: string }
+          - { name: name, label: "Champ nom", type: string }
+          - { name: email, label: "Champ e-mail", type: string }
+          - { name: phone, label: "Champ téléphone", type: string }
+          - { name: message, label: "Champ message", type: string }
+          - { name: submit, label: "Bouton envoyer", type: string }
+          - { name: sending, label: "Message pendant l'envoi", type: string }
+          - { name: success, label: "Message de succès", type: string }
+          - { name: error, label: "Message d'erreur", type: string }
+          - { name: privacy, label: "Mention de confidentialité", type: string }
+          - { name: emailSubject, label: "Objet de l'e-mail reçu", type: string }
+      - name: legal
+        label: "Mentions légales"
+        type: object
+        fields:
+          - { name: seoTitle, label: "Titre pour Google", type: string }
+          - { name: seoDescription, label: "Description pour Google", type: text }
+          - { name: title, label: "Titre", type: string }
+          - { name: text, label: "Texte", type: text }
+      - name: nav
+        label: "Menu"
+        type: object
+        fields:
+          - { name: home, label: "Accueil", type: string }
+          - { name: shiatsu, label: "Le shiatsu", type: string }
+          - { name: about, label: "À propos", type: string }
+          - { name: prices, label: "Tarifs", type: string }
+          - { name: contact, label: "Contact", type: string }
+      - name: common
+        label: "Textes communs (boutons, pied de page…)"
+        type: object
+        fields:
+          - { name: call, label: "Bouton Appeler", type: string }
+          - { name: sms, label: "Bouton SMS", type: string }
+          - { name: writeMe, label: "Lien « écrire un message »", type: string }
+          - { name: freeBooking, label: "Mention réservation gratuite", type: string }
+          - { name: footerTagline, label: "Pied de page – devise", type: string }
+          - { name: footerArea, label: "Pied de page – zone", type: string }
+          - { name: legalLink, label: "Lien mentions légales", type: string }
+          - { name: skipLink, label: "Lien d'accessibilité « aller au contenu »", type: string }
+          - { name: languageLabel, label: "Libellé « Langue »", type: string }
+          - { name: logoAlt, label: "Description du logo", type: string }
+      - name: notFound
+        label: "Page d'erreur (page introuvable)"
+        type: object
+        fields:
+          - { name: title, label: "Titre", type: string }
+          - { name: text, label: "Texte", type: text }
+          - { name: back, label: "Bouton retour", type: string }
+
+  - name: en
+    label: "🇬🇧 Textes en anglais"
+    type: file
+    path: content/en.json
+    format: json
+    fields: *langFields
+
+  - name: es
+    label: "🇪🇸 Textes en espagnol"
+    type: file
+    path: content/es.json
+    format: json
+    fields: *langFields
